@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SopeFV.aternos.me:26138",
+    "ip": "SopeFV.aternos.me",
     "port": 26138,
     "version": "",
     "try-creative": false
